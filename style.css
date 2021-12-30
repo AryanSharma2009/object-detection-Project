@@ -1,0 +1,11 @@
+body {
+    background-size: cover;
+}
+#heading {
+ font: black;  
+}
+
+.labels {
+    background: white;
+    color: blue;
+}
